@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="22.973" viewBox="0 0 25 22.973">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_23960" data-name="Rectangle 23960" width="25" height="22.973" rx="3" transform="translate(585 500)" fill="#0c6d1d"/>
+    </clipPath>
+  </defs>
+  <g id="photoalbum" transform="translate(-585 -500)" opacity="0.98" clip-path="url(#clip-path)">
+    <g id="_-Product-Icons" data-name="🔍-Product-Icons" transform="translate(586.014 500)">
+      <g id="ic_fluent_image_library_28_filled" transform="translate(0 0)">
+        <path id="_-Color" data-name="🎨-Color" d="M26.107,7.958a3.466,3.466,0,0,1,1.61,2.93V22.107a5.61,5.61,0,0,1-5.61,5.61H10.888a3.47,3.47,0,0,1-2.932-1.611l.131.006.13,0H22.107a4.007,4.007,0,0,0,4.007-4.007V8.217Q26.114,8.087,26.107,7.958Zm-10.751,8.7.1.083,7.937,7.792a3.457,3.457,0,0,1-1.82.514H8.217a3.456,3.456,0,0,1-1.82-.514l7.936-7.792.089-.076a.8.8,0,0,1,.825-.072l.109.065ZM21.573,4.744a3.473,3.473,0,0,1,3.473,3.473V21.573a3.457,3.457,0,0,1-.518,1.826l-7.948-7.8-.137-.125a2.4,2.4,0,0,0-3.087-.006l-.145.131L5.263,23.4a3.456,3.456,0,0,1-.518-1.826V8.217A3.473,3.473,0,0,1,8.217,4.744Zm-2.4,4.541A1.335,1.335,0,1,0,20.5,10.62,1.335,1.335,0,0,0,19.168,9.285Z" transform="translate(-4.744 -4.744)" fill="#0c6d1d"/>
+      </g>
+    </g>
+  </g>
+</svg>

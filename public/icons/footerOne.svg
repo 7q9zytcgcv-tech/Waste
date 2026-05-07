@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_23588" data-name="Rectangle 23588" width="20" height="20" transform="translate(784 1487)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="footerOne" transform="translate(-784 -1487)" clip-path="url(#clip-path)">
+    <g id="travel-list-and-baggage-svgrepo-com" transform="translate(784 1487)">
+      <g id="Group_41301" data-name="Group 41301">
+        <path id="Path_84519" data-name="Path 84519" d="M6.989,16.592V13.747H2.248V13H6.989V11.5H2.248v-.749H7.011a1.771,1.771,0,0,1,1.348-1.5H2.248V8.5h8.791a1.575,1.575,0,0,1,1.374-.812H13.49V3.667a1.54,1.54,0,0,0-1.536-1.536H1.536A1.541,1.541,0,0,0,0,3.667V16.333a1.541,1.541,0,0,0,1.536,1.536H7.545A1.761,1.761,0,0,1,6.989,16.592ZM2.248,6.253h8.993V7H2.248Z" fill="#fff"/>
+        <path id="Path_84520" data-name="Path 84520" d="M18.978,9.951H16.156V9.272a.835.835,0,0,0-.831-.832H12.413a.834.834,0,0,0-.831.832v.679H8.76a1.024,1.024,0,0,0-1.021,1.022v5.62A1.024,1.024,0,0,0,8.76,17.614h.512v.256h1.021v-.256h7.154v.256h1.022v-.256h.511A1.025,1.025,0,0,0,20,16.592v-5.62A1.024,1.024,0,0,0,18.978,9.951Zm-3.236,0H12V9.041h3.744Z" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

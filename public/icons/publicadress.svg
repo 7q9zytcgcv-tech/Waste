@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="26" viewBox="0 0 20 26">
+  <g id="publicadress" transform="translate(-6 -3)" opacity="0.25">
+    <circle id="Ellipse_909" data-name="Ellipse 909" cx="2" cy="2" r="2" transform="translate(14 11)" fill="#555151"/>
+    <path id="Path_85046" data-name="Path 85046" d="M16,3A10.029,10.029,0,0,0,6,13c0,8.4,9,15.5,9.4,15.8a1.421,1.421,0,0,0,.6.2,1.421,1.421,0,0,0,.6-.2C17,28.5,26,21.4,26,13A10.029,10.029,0,0,0,16,3Zm0,14a4,4,0,1,1,4-4A4.012,4.012,0,0,1,16,17Z" fill="#555151"/>
+  </g>
+</svg>
