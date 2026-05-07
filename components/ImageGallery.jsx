@@ -47,7 +47,7 @@ export default function ImageGallery({
             onClick={() => setOpen(true)}
             className="bg-white p-2 rounded cursor-pointer hover:opacity-80 transition"
           >
-            <Image src="/icons/photoAlbum.svg" alt="gallery" width={25} height={25} className="w-auto h-auto" />
+            <Image src="/icons/photoalbum.svg" alt="gallery" width={25} height={25} className="w-auto h-auto" />
           </button>
         )}
       </div>
